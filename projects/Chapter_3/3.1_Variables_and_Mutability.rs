@@ -1,0 +1,1 @@
+// Rust favors immutable variables to help memory safety and easier concurrency
